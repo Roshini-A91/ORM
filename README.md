@@ -6,6 +6,7 @@ To develop a Django application to store and retrieve data from Movies Database 
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
+![alt text](WEB.jpg)
 
 
 ## DESIGN STEPS
